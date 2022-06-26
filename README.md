@@ -1,2 +1,2 @@
-# Simpal-Bank
-A simpal bank in sloidity language
+# Simple-Bank
+A simple bank in sloidity language
